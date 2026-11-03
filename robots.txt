@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://led-nail-clipper.lifeofmorr.com/sitemap.xml
